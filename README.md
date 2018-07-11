@@ -1,2 +1,3 @@
-# sk_datascience
-SK Datascience repository
+Data Science Case studies
+
+
