@@ -1,0 +1,62 @@
+Movie,Lead,Rdate,Ocollection,Wcollection,Fwcollection,Tcollection,Verdict
+Dangal,Aamir,23-Dec-16,29.78,106.95,197.53,386.68,Super Hit
+Wajah Tum Ho,Sharman,16-Dec-16,2.86,7.79,10.29,10.29,Flop
+Befikre,Ranveer,09-Dec-16,10.36,34.36,48.75,59.3,Average
+Kahaani 2,Vidya,02-Dec-16,4.25,16.97,24.26,30.56,Average
+Dear Zindagi,Shahrukh,25-Nov-16,8.75,32.5,47,64.44,Hit
+Force 2,John,18-Nov-16,6.05,20.05,30.15,30.15,Average
+Rock On 2,Farhan,11-Nov-16,2.02,7.01,10.01,10.01,Flop
+Ae Dil Hai Mushkil,Ranbeer,28-Oct-16,13.3,35.6,80.19,112.14,Hit
+Shivaay,Ajay,28-Oct-16,10.24,28.56,70.41,100.05,Hit
+Mirzya,Harshvardhan,07-Oct-16,2.2,6.5,NA,6.5,Flop
+M. S. Dhoni - The Untold Story,Sushant,30-Sep-16,21.3,66,94.13,132.85,Super Hit
+Parched,Tannishtha,23-Sep-16,0.12,0.62,NA,0.62,Flop
+Banjo,Riteish,23-Sep-16,1.72,5.92,8.67,8.67,Flop
+Raaz Reboot,Emraan,16-Sep-16,6.3,18.09,26.73,26.73,Flop
+Pink,Amitabh,16-Sep-16,4.32,21.51,35.91,61.83,Super Hit
+Baar Baar Dekho,Katrina,09-Sep-16,6.81,21.16,29.4,29.4,Flop
+Freaky Ali,Nawazuddin,09-Sep-16,2.55,8.5,13.5,13.5,Flop
+Akira,Sonakshi,02-Sep-16,5.15,16.65,26.39,26.39,Flop
+A Flying Jatt,Tiger,25-Aug-16,7.1,29.45,36.85,36.85,Flop
+Happy Bhag Jayegi,Abhay,19-Aug-16,2.32,10.71,17.65,28.02,Average
+Rustom,Akshay,12-Aug-16,14.11,50.42,90.9,127.13,Super Hit
+Mohenjo Daro,Hrithik,12-Aug-16,8.87,30.54,51.18,57.42,Flop
+Dishoom,John,29-Jul-16,11.05,37.32,53.34,67.97,Average
+Madaari,Irrfan,22-Jul-16,2.25,9.75,14,16.8,Flop
+Great Grand Masti,Riteish,15-Jul-16,2.5,8.2,13.14,13.14,Flop
+Sultan,Salman,06-Jul-16,36.54,180.36,229.16,300.45,Super Hit
+Raman Raghav 2.0,Nawazuddin,24-Jun-16,1.1,3.98,6.01,6.95,Flop
+Udta Punjab,Shahid,17-Jun-16,10.05,33.8,48.5,60.27,Hit
+Dhanak,Hetal,17-Jun-16,0.29,1.89,NA,1.89,Flop
+Do Lafzon Ki Kahani,Randeep,10-Jun-16,1.03,3.74,5.54,5.54,Flop
+TE3N,Amitabh,10-Jun-16,2.61,11.13,16.34,19.06,Flop
+Housefull 3,Akshay,03-Jun-16,15.21,53.31,80.1,109.04,Hit
+Veerappan,Sandeep,27-May-16,1.79,5.95,7.45,7.5,Flop
+Phobia,Radhika,27-May-16,0.25,1.24,2.34,2.52,Average
+Waiting,Naseeruddin,27-May-16,0.27,1.3,2.05,2.85,Flop
+Sarbjit,Aishwarya,20-May-16,3.69,13.96,22.09,27.38,Average
+Azhar,Emraan,13-May-16,6.3,20.8,29.7,33.03,Average
+One Night Stand,Sunny,06-May-16,0.6,1.96,2.96,3.05,Flop
+1920 London,Sharman,06-May-16,2.5,7.73,12.45,15.45,Flop
+Traffic,Manoj,06-May-16,0.4,1.98,3.15,3.75,Flop
+Baaghi,Tiger,29-Apr-16,11.94,38.58,59.72,76.34,Hit
+Fan,Shahrukh,15-Apr-16,19.2,52.35,71.5,84.1,Average
+Love Games,Patralekha,08-Apr-16,1.03,3.06,3.94,4.04,Flop
+Ki & Ka,Arjun,01-Apr-16,7.3,25.23,37.57,52.31,Average
+Rocky Handsome,John,25-Mar-16,5.39,16.12,22.85,25.15,Flop
+Kapoor & Sons,Siddarth,18-Mar-16,6.85,26.35,46.93,73.29,Hit
+Teraa Surroor,Himesh,11-Mar-16,1.79,6.46,11.38,14.15,Average
+Jai Gangaajal,Priyanka,04-Mar-16,5.5,17.7,25.2,32.63,Average
+Aligarh,Manoj,26-Feb-16,0.31,1.29,2.09,2.5,Flop
+Tere Bin Laden Dead Or Alive,Manish,26-Feb-16,0.54,1.76,2.86,2.93,Flop
+LoveShhuda,Girish,19-Feb-16,0.64,2.17,2.98,3.07,Flop
+Neerja,Sonam,19-Feb-16,4.7,22.01,35.32,75.61,Super Hit
+Fitoor,Katrina,12-Feb-16,3.61,14.11,18.61,19.28,Flop
+Sanam Re,Pulkit,12-Feb-16,5.04,17.05,25.82,27.74,Average
+Sanam Teri Kasam,Mawra,05-Feb-16,1.25,4.66,8.66,9.11,Flop
+Ghayal Once Again,SunnyDeol,05-Feb-16,7.2,23.25,33.25,35.7,Average
+Saala Khadoos,Madhavan,29-Jan-16,2.19,9.93,12.63,14.79,Flop
+Mastizaade,Sunny,29-Jan-16,5.59,18.45,28.74,36.44,Average
+Airlift,Akshay,22-Jan-16,12.35,44.3,83.5,128.1,Super Hit
+Kyaa Kool Hain Hum 3,Tusshar,22-Jan-16,8.15,20.15,29.65,30.25,Average
+Wazir,Amitabh,08-Jan-16,5.61,21.01,30.05,41.02,Average
